@@ -5,7 +5,7 @@ Turma: 2TDS-H
 
 Grupo: Blue Tech
 
-Membros: Alberto Januario Rodrigues Junior, RM86333;
+Membros: Alberto Januario Rodrigues Junior, RM86332;
          Bruno Tommaso Fitti, RM84543;
          Diogo Moreira Faria, RM86987;
          Gabriel Henrique Mahmoud Cardoso, RM89166;
